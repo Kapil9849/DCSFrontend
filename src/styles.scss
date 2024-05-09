@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+.p-card{
+  background: #f7f3e6 !important;
+}
+
+.p-button.p-button-success, .p-buttonset.p-button-success > .p-button, .p-splitbutton.p-button-success > .p-button {
+  border-radius: 8px !important;
+  width: 100% !important;
+}
+
+.p-inputtext{
+  width: 100% !important;
+}
+
+.p-dropdown {
+  width: 100% !important;
+}
+
+.p-card-header{
+  text-align: center !important;
+  padding-top: 20px;
+}
+
+.p-card{
+  border-radius: 15px !important;
+}
+
+.p-button{
+  width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: 500 !important;
+}
+
+.pi-bell:before {
+  content: "\e97c";
+  color: white !important;
+}
